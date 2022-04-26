@@ -1,0 +1,50 @@
+[
+	{
+		"key": 1,
+		"hasVideo": true,
+		"hasImage": false,
+		"title": "Hablemos de Developer Advocacy",
+		"video": "https://www.youtube.com/embed/BTVYUzAt1UE",
+		"detail": "Charla impartida en Diciembre 2021 a Codehouse Academy."
+	},
+	{
+		"key": 2,
+		"hasVideo": true,
+		"hasImage": false,
+		"title": "Tutorial: Crea tu página web con JAMStack",
+		"video": "https://www.youtube.com/embed/rvXu2NN2ymE",
+		"detail": "Charla impartida en Enero 2021 a 4Geeks Academy LATAM."
+	},
+	{
+		"key": 3,
+		"hasVideo": true,
+		"hasImage": false,
+		"title": "Tutorial: Como crear tu currículum con HTML y CSS",
+		"video": "https://www.youtube.com/embed/zZADzwzdih4",
+		"detail": "Charla impartida en Octubre 2020 a 4Geeks Academy LATAM."
+	},
+	{
+		"key": 4,
+		"hasImage": true,
+		"title": "El Poder de la Ludificación",
+		"image": "presentacion-ludico-5",
+		"url": "https://ch1nux.github.io/cursos_presentaciones/presentacion_gamificacion.html#/",
+		"detail": "Charla impartida en Julio de 2017 a Parkode Digital"
+	},
+	{
+		"key": 5,
+		"hasImage": true,
+		"title": "WAT DA PHP",
+		"image": "presentacion-php",
+		"url": "https://ch1nux.github.io/cursos_presentaciones/presentacion_WTP.html#/",
+		"detail": "Charla impartida en Junio de 2017 a Parkode Digital"
+	},
+	{
+		"key": 6,
+		"hasImage": true,
+		"title": "El Poder de las API REST y Gobierno Abierto",
+		"image": "presentacion-api-gobierno",
+		"url": "https://ch1nux.github.io/cursos_presentaciones/presentacion_api_rest.html#/",
+		"detail": "Charla impartida en Septiembre de 2015 a PDVSA"
+	}
+]

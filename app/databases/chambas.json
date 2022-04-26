@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "Venemergencia",
+    "hasImage": true,
+    "image": "venemergencia",
+    "detail": "Página web de Venemergencia. Una empresa con 17 años de experiencia en atención de emergencias médicas, seguros y medicinas, entre otras operaciones relacionadas.",
+    "url": "https://www.venemergencia.com"
+  },
+  {
+    "key": 2,
+    "title": "Forintra",
+    "hasImage": true,
+    "image": "forintra",
+    "detail": "Pagina web de Forintra. Una empresa especializada en instrumentos, equipos y elementos necesarios para el establecimiento de cadenas de frío en pequeña, mediana y gran escala.",
+    "url": "https://www.forintra.com/"
+  },
+  {
+  	"key": 3,
+  	"title": "Corazon Llanero",
+  	"hasImage": true,
+  	"image": "corazonllanero",
+  	"detail": "Página Web de Corazón Llanero. Un canal de televisión digital dedicado a la divulgación musical de las costumbres, tradiciones y música popular llanera venezolana.",
+  	"url": "https://corazonllanero.com"
+  },
+  {
+    "key": 4,
+    "title": "Total Training",
+    "hasImage": true,
+    "image": "total-training",
+    "detail": "Página Web de Total Training. Una startup en California. E.E.U.U., dedicada a elaborar cursos sobre tecnoología tanto a nivel individual como corporativo.",
+    "url": "https://totaltraining.com/"
+  },
+  {
+    "key": 5,
+    "title": "100 Days of Vue",
+    "hasImage": true,
+    "image": "hundred-vue",
+    "detail": "Página Web personal para el registro y control de los proyectos a realizar durante el reto #100DaysOfCode aprendiendo el framework Vue.js",
+    "url": "https://hundreddaysofvue.github.io/"
+  },
+  {
+  	"key": 6,
+  	"title": "Portafolio",
+  	"hasImage": true,
+  	"image": "portafolio",
+  	"detail": "Este porfafolio, por supuesto 🤭",
+  	"url": "#"
+  }
+]

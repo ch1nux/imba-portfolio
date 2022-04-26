@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "IT and Networking Fundamentals",
+    "hasImage": true,
+    "image": "IBM-1",
+    "detail": "Curso terminado en Diciembre 2007. Nivel Básico.",
+    "url": "#"
+  },
+  {
+    "key": 2,
+    "title": "Programming Fundamentals",
+    "hasImage": true,
+    "image": "IBM-2",
+    "detail": "Curso terminado en Agosto de 2008. Nivel Intermedio.",
+    "url": "#"
+  },
+  {
+  	"key": 3,
+  	"title": "Application Development",
+  	"hasImage": true,
+  	"image": "IBM-3",
+  	"detail": "Curso terminado en Febrero de 2009. Nivel Avanzado.",
+  	"url": "#"
+  },
+  {
+    "key": 4,
+    "title": "MongoDB for Node.js Developers",
+    "hasImage": true,
+    "image": "https://via.placeholder.com/728x128.png?text=Haz+clic+para+ver+el+certificado",
+    "detail": "Curso realizado en Septiembre de 2015. Nivel Intermedio.",
+    "url": "https://university.mongodb.com/course_completion/278be92b801b4810a9382a7ab08c5423"
+  },
+  {
+    "key": 5,
+    "title": "FCC: Responsive Web Design",
+    "hasImage": true,
+    "image": "https://via.placeholder.com/728x128.png?text=Haz+clic+para+ver+el+certificado",
+    "detail": "Curso realizado en Octubre de 2019. Nivel Básico.",
+    "url": "https://www.freecodecamp.org/certification/chinuxparibus/responsive-web-design"
+  },
+  {
+  	"key": 6,
+  	"title": "FCC: Javascript Algorithms and Data Structures",
+  	"hasImage": true,
+  	"image": "https://via.placeholder.com/728x128.png?text=Haz+clic+para+ver+el+certificado",
+  	"detail": "Curso realizado en Julio de 2020. Nivel Básico.",
+  	"url": "https://www.freecodecamp.org/certification/chinuxparibus/javascript-algorithms-and-data-structures"
+  }
+]
